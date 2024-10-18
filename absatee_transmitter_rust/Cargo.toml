@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-cargo-binutils = "0.3.6"
 cortex-m = "0.7.7"
 cortex-m-rt = "0.7.3"
 defmt = "0.3.8"

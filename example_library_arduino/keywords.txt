@@ -1,0 +1,9 @@
+HCWireless	KEYWORD1
+rxInit	KEYWORD2
+txInit	KEYWORD2
+read	KEYWORD2
+send	KEYWORD2
+readBytes	KEYWORD2
+sendBytes	KEYWORD2
+available	KEYWORD2
+state	KEYWORD2
